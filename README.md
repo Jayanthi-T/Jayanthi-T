@@ -14,7 +14,7 @@ An adventurer who has a habit of exploring around.An admired self-learner who al
 Person with the real asset of punctuality,who keeps time, as in life and so in work.An Economical Writer who pens magnificent thoughts stuffed with poetry.
 
 Also,a Green Panther,who is also creating awareness and safeguarding it everyday.
-A personality who always works for self-satisfaction and who has a frame-of-mind to handle success with great humble and to learn from failures.In short,a sweet friendly person to love and to be loved! <br/> <img src="https://media3.giphy.com/media/lp73M2K486YHjG360w/200w.webp?cid=ecf05e47bc1xoh2y1dxuhytjsxsep7x1xqqyjxoj04k4pvxu&rid=200w.webp" width="55 px" height="45 px" /> <img src="https://media0.giphy.com/media/ftYRPfRi49c0CFjPen/200w.webp?cid=ecf05e47vwyma4ampeqxshlh7bawvge33dw7r9tak8fzu4jt&rid=200w.webp" width="55 px" height="45 px" /> 
+A personality who always works for self-satisfaction and who has a frame-of-mind to handle success with great humble and to learn from failures.In short,a sweet friendly person to love and to be loved! <br/> <img src="https://media3.giphy.com/media/lp73M2K486YHjG360w/200w.webp?cid=ecf05e47bc1xoh2y1dxuhytjsxsep7x1xqqyjxoj04k4pvxu&rid=200w.webp" width="60 px" height="48 px" /> <img src="https://media0.giphy.com/media/ftYRPfRi49c0CFjPen/200w.webp?cid=ecf05e47vwyma4ampeqxshlh7bawvge33dw7r9tak8fzu4jt&rid=200w.webp" width="60 px" height="48 px" /> 
 
 
 ## Technical Expertise :
@@ -39,16 +39,16 @@ A personality who always works for self-satisfaction and who has a frame-of-mind
 <br>
 
 <a href="https://www.linkedin.com/in/jayanthi-t-864202192/" target="_blank">
-  <img align="left" alt="Linkdein " width="40px" src="https://media3.giphy.com/media/kyWNFTml48xUubWUq3/200w.webp?cid=ecf05e4786xrqst1yi0r2b0ivw2soit3eeg7hgzszc4wxrcf&rid=200w.webp" />  
+  <img align="left" alt="Linkdein " width="50px" src="https://media3.giphy.com/media/kyWNFTml48xUubWUq3/200w.webp?cid=ecf05e4786xrqst1yi0r2b0ivw2soit3eeg7hgzszc4wxrcf&rid=200w.webp" />  
 </a>
 <a href="mailto:jayanthit2112@gmail.com" target="_blank">
-  <img align="left" alt="gmail "  width="40px" src="https://media2.giphy.com/media/YmhqSIaLh82K5lTEW5/200w.webp?cid=ecf05e47xzh89tk19fmbza0cuyhcp2lcj41jsm4e8p4ngbfc&rid=200w.webp" /> 
+  <img align="left" alt="gmail "  width="50px" src="https://media2.giphy.com/media/YmhqSIaLh82K5lTEW5/200w.webp?cid=ecf05e47xzh89tk19fmbza0cuyhcp2lcj41jsm4e8p4ngbfc&rid=200w.webp" /> 
 </a>
 <a href="https://www.instagram.com/jaya_sisters/?hl=en" target="_blank">
-  <img align="left" alt=" instagram" width="40px" height="50 px" src="https://media4.giphy.com/media/xThtayC2XaYiQMybss/giphy.webp?cid=ecf05e47hsy0i153830q1vve5tvcf9lv6oy3tujkkdmdpsll&rid=giphy.webp" /> 
+  <img align="left" alt=" instagram" width="50px" height="50 px" src="https://media4.giphy.com/media/xThtayC2XaYiQMybss/giphy.webp?cid=ecf05e47hsy0i153830q1vve5tvcf9lv6oy3tujkkdmdpsll&rid=giphy.webp" /> 
 </a>
 <a href="https://github.com/Jayanthi-T" target="_blank">
-  <img align="left" alt="github " width="40px" src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e472so75bua8d9xhpubbfle4kknyejfbfo5gnafiv0i&rid=200.webp" />
+  <img align="left" alt="github " width="50px" src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e472so75bua8d9xhpubbfle4kknyejfbfo5gnafiv0i&rid=200.webp" />
 </a>
 <br/>
 
