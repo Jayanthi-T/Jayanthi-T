@@ -1,4 +1,4 @@
-# <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="50px">  Geeks! 
+# <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="80px">  Geeks! 
 
 ## Exploring Myself : 
 
@@ -32,7 +32,7 @@ A personality who always works for self-satisfaction and who has a frame-of-mind
 
 ### 📈 My Activities in Github : 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JAYASREE1408&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JJayanthi-T&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 ## Spot me and drop a line on <img alt="social media" src="https://media1.giphy.com/media/IhIdF3UblqYRdLtNOt/200w.webp?cid=ecf05e47289d61f356268924b2dd55b64b043d96dfafb97f&rid=200w.webp" width="40px" >
 
