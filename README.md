@@ -1,10 +1,10 @@
-# Hello World  <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="50px">
+# Hello Geeks! <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="50px">
 
-## Exploring Myself : <img src="https://media2.giphy.com/media/f8tX2cKS51U1UOWd0s/200w.webp?cid=ecf05e47pg4bkp5h7d2tc2t1xprxnxk8wzl0gctpbfaeo9y4&rid=200w.webp" width="86 px" height="40 px" />
+## Exploring Myself : 
 
 A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance <img src="https://media3.giphy.com/media/TLPNXvh24e7okAeWrg/200w.webp?cid=ecf05e47zfxc8jrixr166a6udrkpkgj9rn8v1pwxjhetbflp&rid=200w.webp" width="50 px" height="35 px"/> .
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/Qw7PrvtqVrSgxPujvt/200.gif" width="500" height="380" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/Qw7PrvtqVrSgxPujvt/200.gif" width="425" height="280" />
 <br/>
 
 Defines works with uniqueness and decorates them creativity.Stands odd from the crowd by perfectionism.As precise and sharp as the sweep-hand.
@@ -13,8 +13,8 @@ An adventurer who has a habit of exploring around.An admired self-learner who al
 
 Person with the real asset of punctuality,who keeps time, as in life and so in work.An Economical Writer who pens magnificent thoughts stuffed with poetry.
 
-Also,a Green Panther<img src="https://media3.giphy.com/media/lp73M2K486YHjG360w/200w.webp?cid=ecf05e47bc1xoh2y1dxuhytjsxsep7x1xqqyjxoj04k4pvxu&rid=200w.webp" width="55 px" height="45 px" /> ,who is also creating awareness and safeguarding it everyday.
-A personality who always works for self-satisfaction and who has a frame-of-mind to handle success with great humble and to learn from failures.In short,a sweet friendly person to love and to be loved! 
+Also,a Green Panther,who is also creating awareness and safeguarding it everyday.
+A personality who always works for self-satisfaction and who has a frame-of-mind to handle success with great humble and to learn from failures.In short,a sweet friendly person to love and to be loved! <img src="https://media3.giphy.com/media/lp73M2K486YHjG360w/200w.webp?cid=ecf05e47bc1xoh2y1dxuhytjsxsep7x1xqqyjxoj04k4pvxu&rid=200w.webp" width="55 px" height="45 px" /> 
 
 
 ## Technical Expertise :
