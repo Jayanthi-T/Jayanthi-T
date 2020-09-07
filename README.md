@@ -2,7 +2,7 @@
 
 ##Exploring Myself :
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/Qw7PrvtqVrSgxPujvt/200.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/Qw7PrvtqVrSgxPujvt/200.gif" width="500" height="380" />
 <br/>
 A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance.
 
@@ -12,28 +12,28 @@ An adventurer who has a habit of exploring around.An admired self-learner who al
 
 Person with the real asset of punctuality,who keeps time, as in life and so in work.An Economical Writer who pens magnificent thoughts stuffed with poetry.
 
-Also,a Green Panther<img alt="tree"src="https://media3.giphy.com/media/WONVuAsE0opm8/giphy.webp?cid=ecf05e47ymi6a6mb1wxy9922fvnxz655rjop18wzgy4dapr1&rid=giphy.webp" width="22px">,who is also creating awareness and safeguarding it everyday.
+Also,a Green Panther <img alt="tree"src="https://media3.giphy.com/media/WONVuAsE0opm8/giphy.webp?cid=ecf05e47ymi6a6mb1wxy9922fvnxz655rjop18wzgy4dapr1&rid=giphy.webp" width="22px"> ,who is also creating awareness and safeguarding it everyday.
 A personality who always works for self-satisfaction and who has a frame-of-mind to handle success with great humble and to learn from failures.In short,a sweet friendly person to love and to be loved! 
 
 
 ##Technical Expertise :
 
-<code><img height="20" src="https://www.drupal.org/files/project-images/bootstrap-stack.png"></code>
-<code><img height="20" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
-<code><img height="20" src="https://cms-assets.tutsplus.com/uploads/users/1251/posts/31701/preview_image/php-tutsplus.png"></code>
-<code><img height="20" src="https://www.freepngimg.com/thumb/java/5-2-java-png-clipart-thumb.png"></code>
-<code><img height="20" src="https://www.pinclipart.com/picdir/middle/396-3965857_c-c-programming-language-logo-clipart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="28" src="https://www.drupal.org/files/project-images/bootstrap-stack.png"></code>
+<code><img height="28" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020"></code>
+<code><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
+<code><img height="28" src="https://cms-assets.tutsplus.com/uploads/users/1251/posts/31701/preview_image/php-tutsplus.png"></code>
+<code><img height="28" src="https://www.freepngimg.com/thumb/java/5-2-java-png-clipart-thumb.png"></code>
+<code><img height="28" src="https://www.pinclipart.com/picdir/middle/396-3965857_c-c-programming-language-logo-clipart.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ### 📈 My Activities in Github : 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JAYASREE1408&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-##Spot me and drop a line on <img alt="social media" src="https://media1.giphy.com/media/IhIdF3UblqYRdLtNOt/200w.webp?cid=ecf05e47289d61f356268924b2dd55b64b043d96dfafb97f&rid=200w.webp" width="22px" >
+##Spot me and drop a line on <img alt="social media" src="https://media1.giphy.com/media/IhIdF3UblqYRdLtNOt/200w.webp?cid=ecf05e47289d61f356268924b2dd55b64b043d96dfafb97f&rid=200w.webp" width="40px" >
 
 <br>
 
