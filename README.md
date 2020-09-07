@@ -1,10 +1,10 @@
-# <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="80px">  Geeks! 
+# <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="80px" height="74px">  Geeks! 
 
 ## Exploring Myself : 
 
 A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance.
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/Qw7PrvtqVrSgxPujvt/200.gif" width="425" height="280" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/j0MktH0wmO0U4XVUAx/giphy_s.gif?cid=ecf05e47q3ac67qardqtn87gbhom6zyzdvlx1bo3qvbpf3uu&rid=giphy_s.gif" width="425" height="280" />
 <br/>
 
 Defines works with uniqueness and decorates them creativity.Stands odd from the crowd by perfectionism.As precise and sharp as the sweep-hand.
