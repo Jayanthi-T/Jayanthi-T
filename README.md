@@ -4,7 +4,7 @@
 
 A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance.
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/j0MktH0wmO0U4XVUAx/giphy_s.gif?cid=ecf05e47q3ac67qardqtn87gbhom6zyzdvlx1bo3qvbpf3uu&rid=giphy_s.gif" width="425" height="280" />
+<img align="right" alt="GIF" src="https://gph.is/st/YklaLOm" width="425" height="280" />
 <br/>
 
 Defines works with uniqueness and decorates them creativity.Stands odd from the crowd by perfectionism.As precise and sharp as the sweep-hand.
