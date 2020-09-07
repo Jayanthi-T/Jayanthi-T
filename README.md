@@ -13,7 +13,7 @@ An adventurer who has a habit of exploring around.An admired self-learner who al
 
 Person with the real asset of punctuality,who keeps time, as in life and so in work.An Economical Writer who pens magnificent thoughts stuffed with poetry.
 
-Also,a Green Panther <img alt="tree"src="https://media3.giphy.com/media/WONVuAsE0opm8/giphy.webp?cid=ecf05e47ymi6a6mb1wxy9922fvnxz655rjop18wzgy4dapr1&rid=giphy.webp" width="40px"> ,who is also creating awareness and safeguarding it everyday.
+Also,a Green Panther <img src="https://media3.giphy.com/media/WONVuAsE0opm8/giphy.webp?cid=ecf05e47s3gdkse9j106qgfj9cwmxy7ee91ee0v6m6wa0j0n&rid=giphy.webp" width="40px"> ,who is also creating awareness and safeguarding it everyday.
 A personality who always works for self-satisfaction and who has a frame-of-mind to handle success with great humble and to learn from failures.In short,a sweet friendly person to love and to be loved! 
 
 
