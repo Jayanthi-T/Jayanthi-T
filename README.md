@@ -1,5 +1,5 @@
-# Hello Geeks! <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="50px">
-
+<img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="50px">
+ # Hello Geeks! 
 ## Exploring Myself : 
 
 A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance.
@@ -45,7 +45,7 @@ A personality who always works for self-satisfaction and who has a frame-of-mind
   <img align="left" alt="gmail "  width="50px" src="https://media2.giphy.com/media/YmhqSIaLh82K5lTEW5/200w.webp?cid=ecf05e47xzh89tk19fmbza0cuyhcp2lcj41jsm4e8p4ngbfc&rid=200w.webp" /> 
 </a>
 <a href="https://www.instagram.com/jaya_sisters/?hl=en" target="_blank">
-  <img align="left" alt=" instagram" width="50px" height="50 px" src="https://media4.giphy.com/media/xThtayC2XaYiQMybss/giphy.webp?cid=ecf05e47hsy0i153830q1vve5tvcf9lv6oy3tujkkdmdpsll&rid=giphy.webp" /> 
+  <img align="left" alt=" instagram" width="50px" height="50 px" src="https://media4.giphy.com/media/QWpK88H1g9PtmtQly1/200w.webp?cid=ecf05e47eadyykbebm4ecmviph8lgo8pc9ef80jmc3pxu1rl&rid=200w.webp" /> 
 </a>
 <a href="https://github.com/Jayanthi-T" target="_blank">
   <img align="left" alt="github " width="50px" src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e472so75bua8d9xhpubbfle4kknyejfbfo5gnafiv0i&rid=200.webp" />
