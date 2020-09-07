@@ -1,5 +1,6 @@
-<img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="50px">
- # Hello Geeks! 
+<img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="50px"> 
+# Hello Geeks! 
+
 ## Exploring Myself : 
 
 A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance.
