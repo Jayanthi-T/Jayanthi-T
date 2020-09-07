@@ -2,7 +2,7 @@
 
 ## Exploring Myself :
 
-A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance <img src="https://media0.giphy.com/media/d9BqB1cZxBfR31Qniz/100.webp?cid=ecf05e47wnqkzhfqg0lcdyl5yn79janokjjxdmnxv9nbsmgr&rid=100.webp" width="40 px" /> .
+A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance <img src="https://media0.giphy.com/media/d9BqB1cZxBfR31Qniz/100.webp?cid=ecf05e47wnqkzhfqg0lcdyl5yn79janokjjxdmnxv9nbsmgr&rid=100.webp" width="80 px" height="35 px"/> .
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/Qw7PrvtqVrSgxPujvt/200.gif" width="500" height="380" />
 <br/>
@@ -11,9 +11,9 @@ Defines works with uniqueness and decorates them creativity.Stands odd from the 
 
 An adventurer who has a habit of exploring around.An admired self-learner who always loves exploring,as exploration is obviously the first and foremost step of self-learning.
 
-Person with the real asset of punctuality <img src="https://media0.giphy.com/media/RKHITg6osL83lyRajm/200w.webp?cid=ecf05e47tl2gfzpuh2x4kvbdemrkm1uti0wk77afllsd3toq&rid=200w.webp" width="40 px" /> ,who keeps time, as in life and so in work.An Economical Writer who pens magnificent thoughts stuffed with poetry.
+Person with the real asset of punctuality <img src="https://media0.giphy.com/media/RKHITg6osL83lyRajm/200w.webp?cid=ecf05e47tl2gfzpuh2x4kvbdemrkm1uti0wk77afllsd3toq&rid=200w.webp" width="40 px" height="25 px"/> ,who keeps time, as in life and so in work.An Economical Writer who pens magnificent thoughts stuffed with poetry.
 
-Also,a Green Panther <img src="https://media3.giphy.com/media/lp73M2K486YHjG360w/200w.webp?cid=ecf05e47bc1xoh2y1dxuhytjsxsep7x1xqqyjxoj04k4pvxu&rid=200w.webp" width="40px"> ,who is also creating awareness and safeguarding it everyday.
+Also,a Green Panther <img src="https://media3.giphy.com/media/lp73M2K486YHjG360w/200w.webp?cid=ecf05e47bc1xoh2y1dxuhytjsxsep7x1xqqyjxoj04k4pvxu&rid=200w.webp" width="50px" height="25 px" > ,who is also creating awareness and safeguarding it everyday.
 A personality who always works for self-satisfaction and who has a frame-of-mind to handle success with great humble and to learn from failures.In short,a sweet friendly person to love and to be loved! 
 
 
