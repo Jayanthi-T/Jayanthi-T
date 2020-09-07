@@ -1,8 +1,8 @@
 # Hello World  <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="40px">
 
-## Exploring Myself :
+## Exploring Myself : <img src="https://media2.giphy.com/media/f8tX2cKS51U1UOWd0s/200w.webp?cid=ecf05e47pg4bkp5h7d2tc2t1xprxnxk8wzl0gctpbfaeo9y4&rid=200w.webp" width="60 px" />
 
-A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance <img src="https://media0.giphy.com/media/d9BqB1cZxBfR31Qniz/100.webp?cid=ecf05e47wnqkzhfqg0lcdyl5yn79janokjjxdmnxv9nbsmgr&rid=100.webp" width="80 px" height="35 px"/> .
+A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance <img src="https://media3.giphy.com/media/TLPNXvh24e7okAeWrg/200w.webp?cid=ecf05e47zfxc8jrixr166a6udrkpkgj9rn8v1pwxjhetbflp&rid=200w.webp" width="50 px" height="35 px"/> .
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/Qw7PrvtqVrSgxPujvt/200.gif" width="500" height="380" />
 <br/>
@@ -11,9 +11,9 @@ Defines works with uniqueness and decorates them creativity.Stands odd from the 
 
 An adventurer who has a habit of exploring around.An admired self-learner who always loves exploring,as exploration is obviously the first and foremost step of self-learning.
 
-Person with the real asset of punctuality <img src="https://media0.giphy.com/media/RKHITg6osL83lyRajm/200w.webp?cid=ecf05e47tl2gfzpuh2x4kvbdemrkm1uti0wk77afllsd3toq&rid=200w.webp" width="40 px" height="25 px"/> ,who keeps time, as in life and so in work.An Economical Writer who pens magnificent thoughts stuffed with poetry.
+Person with the real asset of punctuality <img src="https://media4.giphy.com/media/vUzFIlO36dkl2/200w.webp?cid=ecf05e47ktl7sb04onurwylqdy9o317p95ukaoutbtrim5ek&rid=200w.webp" width="40 px" height="35 px"/> ,who keeps time, as in life and so in work.An Economical Writer who pens magnificent thoughts stuffed with poetry.
 
-Also,a Green Panther <img src="https://media3.giphy.com/media/lp73M2K486YHjG360w/200w.webp?cid=ecf05e47bc1xoh2y1dxuhytjsxsep7x1xqqyjxoj04k4pvxu&rid=200w.webp" width="50px" height="25 px" > ,who is also creating awareness and safeguarding it everyday.
+Also,a Green Panther <img src="https://media3.giphy.com/media/lp73M2K486YHjG360w/200w.webp?cid=ecf05e47bc1xoh2y1dxuhytjsxsep7x1xqqyjxoj04k4pvxu&rid=200w.webp" width="50px" height="45 px" > ,who is also creating awareness and safeguarding it everyday.
 A personality who always works for self-satisfaction and who has a frame-of-mind to handle success with great humble and to learn from failures.In short,a sweet friendly person to love and to be loved! 
 
 
@@ -38,17 +38,17 @@ A personality who always works for self-satisfaction and who has a frame-of-mind
 
 <br>
 
-<a href="https://www.linkedin.com/in/jayasree-t-b83a2119a/" target="_blank">
-  <img align="left" alt="Linkdein " width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  
+<a href="https://www.linkedin.com/in/jayanthi-t-864202192/" target="_blank">
+  <img align="left" alt="Linkdein " width="40px" src="https://media3.giphy.com/media/kyWNFTml48xUubWUq3/200w.webp?cid=ecf05e4786xrqst1yi0r2b0ivw2soit3eeg7hgzszc4wxrcf&rid=200w.webp" />  
 </a>
 <a href="mailto:jayanthit2112@gmail.com" target="_blank">
-  <img align="left" alt="gmail "  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> 
+  <img align="left" alt="gmail "  width="40px" src="https://media2.giphy.com/media/YmhqSIaLh82K5lTEW5/200w.webp?cid=ecf05e47xzh89tk19fmbza0cuyhcp2lcj41jsm4e8p4ngbfc&rid=200w.webp" /> 
 </a>
 <a href="https://www.instagram.com/jaya_sisters/?hl=en" target="_blank">
-  <img align="left" alt=" instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
+  <img align="left" alt=" instagram" width="40px" height="50 px" src="https://media4.giphy.com/media/xThtayC2XaYiQMybss/giphy.webp?cid=ecf05e47hsy0i153830q1vve5tvcf9lv6oy3tujkkdmdpsll&rid=giphy.webp" /> 
 </a>
 <a href="https://github.com/Jayanthi-T" target="_blank">
-  <img align="left" alt="github " width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="github " width="40px" src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e472so75bua8d9xhpubbfle4kknyejfbfo5gnafiv0i&rid=200.webp" />
 </a>
 <br/>
 
