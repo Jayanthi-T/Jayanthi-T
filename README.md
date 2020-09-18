@@ -31,6 +31,7 @@ A personality who always works for self-satisfaction and who has a frame-of-mind
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ### 📈 My Activities in Github : 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jayanthi-T&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 ## Spot me and drop a line on <img alt="social media" src="https://media1.giphy.com/media/IhIdF3UblqYRdLtNOt/200w.webp?cid=ecf05e47289d61f356268924b2dd55b64b043d96dfafb97f&rid=200w.webp" width="40px" >
