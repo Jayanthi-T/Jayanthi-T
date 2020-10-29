@@ -6,9 +6,8 @@
 ➤A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance.
 
 <br/>
-<br/>
 ➤Defines works with uniqueness and decorates them creativity.Stands odd from the crowd by perfectionism.As precise and sharp as the sweep-hand.
-
+<br/>
 ➤An adventurer who has a habit of exploring around.An admired self-learner who always loves exploring,as exploration is obviously the first and foremost step of self-learning.
 
 ➤Person with the real asset of punctuality,who keeps time, as in life and so in work.An Economical Writer who pens magnificent thoughts stuffed with poetry.
