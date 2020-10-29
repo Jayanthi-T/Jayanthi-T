@@ -8,9 +8,9 @@
 ➤Defines works with uniqueness and decorates them creativity.Stands odd from the crowd by perfectionism.As precise and sharp as the sweep-hand.
 <br><br>
 ➤An adventurer who has a habit of exploring around.An admired self-learner who always loves exploring,as exploration is obviously the first and foremost step of self-learning.
-
+<br><br>
 ➤Person with the real asset of punctuality,who keeps time, as in life and so in work.An Economical Writer who pens magnificent thoughts stuffed with poetry.
-
+<br><br>
 ➤Also,a Green Panther,who is also creating awareness and safeguarding it everyday.
 A personality who always works for self-satisfaction and who has a frame-of-mind to handle success with great humble and to learn from failures.In short,a sweet friendly person to love and to be loved! <br/> <img src="https://media0.giphy.com/media/ftYRPfRi49c0CFjPen/200w.webp?cid=ecf05e47vwyma4ampeqxshlh7bawvge33dw7r9tak8fzu4jt&rid=200w.webp" width="60 px" height="48 px" /> 
 
