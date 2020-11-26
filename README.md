@@ -37,7 +37,7 @@ A personality who always works for self-satisfaction and who has a frame-of-mind
 <br>
 
 <a href="https://www.linkedin.com/in/jayanthi-t-864202192/" target="_blank">
-  <img align="left" alt="Linkdein " width="40px"  src="https://media1.tenor.com/images/4e7e409f3943464689177a2b5179ce6e/tenor.gif?itemid=16387503" />  
+  <img align="left" alt="Linkdein " width="50px"  src="https://media1.tenor.com/images/4e7e409f3943464689177a2b5179ce6e/tenor.gif?itemid=16387503" />  
 </a>
 <a href="mailto:jayanthit2112@gmail.com" target="_blank">
   <img align="left" alt="gmail "  width="50px" src="https://media2.giphy.com/media/YmhqSIaLh82K5lTEW5/200w.webp?cid=ecf05e47xzh89tk19fmbza0cuyhcp2lcj41jsm4e8p4ngbfc&rid=200w.webp" /> 
