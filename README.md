@@ -48,5 +48,5 @@ A personality who always works for self-satisfaction and who has a frame-of-mind
 <a href="https://github.com/Jayanthi-T" target="_blank"> 
   <img align="left" alt="github " width="50px" src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e472so75bua8d9xhpubbfle4kknyejfbfo5gnafiv0i&rid=200.webp" />
 </a>
-<br/>
+<br/> 
 
