@@ -37,14 +37,14 @@ A personality who always works for self-satisfaction and who has a frame-of-mind
 <br>
 
 <a href="https://www.linkedin.com/in/jayanthi-t-864202192/" target="_blank">
-  <img align="left" alt="Linkdein " width="50px"  src="https://media1.tenor.com/images/4e7e409f3943464689177a2b5179ce6e/tenor.gif?itemid=16387503" />  
+  <img align="left" alt="Linkdein " width="50px" height="50px" src="https://media1.tenor.com/images/4e7e409f3943464689177a2b5179ce6e/tenor.gif?itemid=16387503" />  
 </a>
 
 <a href="https://www.instagram.com/jaya_sisters/?hl=en" target="_blank">
   <img align="left" alt=" instagram" width="50px" height="50 px" src="https://media4.giphy.com/media/QWpK88H1g9PtmtQly1/200w.webp?cid=ecf05e47eadyykbebm4ecmviph8lgo8pc9ef80jmc3pxu1rl&rid=200w.webp" /> 
 </a>
 <a href="mailto:jayanthit2112@gmail.com" target="_blank">
-  <img align="left" alt="gmail "  width="50px" src="https://i.pinimg.com/originals/07/99/0d/07990de3a791c7330131934bc546ad25.gif" /> 
+  <img align="left" alt="gmail "  width="60px" src="https://i.pinimg.com/originals/07/99/0d/07990de3a791c7330131934bc546ad25.gif" /> 
 </a>
 <a href="https://github.com/Jayanthi-T" target="_blank"> 
   <img align="left" alt="github " width="50px" src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e472so75bua8d9xhpubbfle4kknyejfbfo5gnafiv0i&rid=200.webp" />
