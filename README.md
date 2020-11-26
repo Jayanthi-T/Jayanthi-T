@@ -44,7 +44,7 @@ A personality who always works for self-satisfaction and who has a frame-of-mind
   <img align="left" alt=" instagram" width="50px" height="50 px" src="https://media4.giphy.com/media/QWpK88H1g9PtmtQly1/200w.webp?cid=ecf05e47eadyykbebm4ecmviph8lgo8pc9ef80jmc3pxu1rl&rid=200w.webp" /> 
 </a>
 <a href="mailto:jayanthit2112@gmail.com" target="_blank">
-  <img align="left" alt="gmail "  width="50px" src="https://cdn.dribbble.com/users/2214132/screenshots/7450855/media/75180e4bdd9b1cdccb6edf65a1c031d4.gif" /> 
+  <img align="left" alt="gmail "  width="50px" src="https://i.pinimg.com/originals/07/99/0d/07990de3a791c7330131934bc546ad25.gif" /> 
 </a>
 <a href="https://github.com/Jayanthi-T" target="_blank"> 
   <img align="left" alt="github " width="50px" src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e472so75bua8d9xhpubbfle4kknyejfbfo5gnafiv0i&rid=200.webp" />
