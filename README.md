@@ -1,4 +1,4 @@
-# <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="100 px" height="74px"/>  Geeks! I'm <img src="https://www.freelogodesign.org/file/app/client/thumb/f7cb54a5-4f28-4d02-afd0-4f7142e391d1_200x200.png?1599502808506"/>
+# <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="100 px" height="74px"/>  Geeks! I'm JAYANTHI T
 
 ## Exploring Myself : 
 
