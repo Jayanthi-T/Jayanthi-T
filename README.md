@@ -3,7 +3,7 @@
 ## Exploring Myself : 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/j0MktH0wmO0U4XVUAx/giphy.gif" width="450" height="500" />
-➤A curious learner who speaks with Actions rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance.
+➤A curious learner who speaks by her Work rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance.
 <br><br>
 ➤Defines works with uniqueness and decorates them with creativity.Stands out from the crowd by perfectionism.As precise and sharp as the sweep-hand.
 <br><br>
@@ -51,3 +51,4 @@ A personality who always works for self-satisfaction and who has a frame-of-mind
 </a>
 <br/> 
 
+ 
