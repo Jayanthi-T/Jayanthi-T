@@ -1,4 +1,4 @@
-# <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="100 px" height="74px"/>  Geeks! I'm JAYANTHI T  <img src="https://cdn.dribbble.com/users/1049434/screenshots/3646085/say_hello.gif" width="100 px" height="94px"/>
+# <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="100 px" height="74px"/>  Geeks! I'm JAYANTHI T  <img src="https://cdn.dribbble.com/users/1049434/screenshots/3646085/say_hello.gif" width="100 px" height="84px"/>
 
 ## Exploring Myself : 
 
