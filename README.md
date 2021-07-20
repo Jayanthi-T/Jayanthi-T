@@ -1,6 +1,6 @@
 # <img src="https://media0.giphy.com/media/3o7aCQ8mfzu4ltK0lG/200w.webp?cid=ecf05e47b7lff8znzl569baqlarveq9775zko971dq4vnr94&rid=200w.webp" width="100 px" height="74px"/>  Geeks! I'm JAYANTHI T<img src="https://cdn.dribbble.com/users/1049434/screenshots/3646085/say_hello.gif" width="120 px" height="84px"/>
 
-<img src="https://user-images.githubusercontent.com/66419308/126276153-5e8f6ba0-607b-46fe-bcf5-184e38e77168.png" width="100px" />
+<img src="https://user-images.githubusercontent.com/66419308/126276153-5e8f6ba0-607b-46fe-bcf5-184e38e77168.png" width="300px" />
 
 ## Exploring Myself : 
 
