@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/66419308/126276153-5e8f6ba0-607b-46fe-bcf5-184e38e77168.png" />
 
-## I'm : 
+## Who am I? : 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/j0MktH0wmO0U4XVUAx/giphy.gif" width="450" height="500" />
 ➤A curious learner who speaks by her Work rather words.A nerd techy personality with a unique way of solving problems and a wonderful team worker with cool leadership attitude.A workaholic smart, young mind carrying passion with elegance.
